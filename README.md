@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**OrpanAp/OrpanAp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer · Django, React · Building user-centered web apps  
+📍 Gazipur, Dhaka · ✉️ purificalex90@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+### Blog Management System — role-based DB system
+- Tech: Django, MySQL, HTML/CSS, JavaScript
+- Highlights: auth & secure routing, role-based permissions, deployed demo (link)
+
+### Movie Application — API-based movie site
+- Tech: React, JS, API integration
+- Highlights: real-time API integration, filtering, responsive UI, live demo (link)
+
+### POWER Framework
+- Tech: Vanilla JS, HTML/CSS
+- Highlights: custom frontend framework for page management (link)
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, HTML, CSS, C, C++  
+**Frameworks:** Django, React, Unity (if you use it)  
+**Tools:** Git, Docker (if used), VS Code, GitHub Actions
+
+---
+
+## 📫 Contact
+- Email: purificalex90@gmail.com
+- LinkedIn: (link) · Portfolio: (link)
