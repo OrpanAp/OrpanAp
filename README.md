@@ -1,7 +1,7 @@
 # Hi, I'm Alex 👋
 
 Full-Stack Web Developer · Django, React · Building user-centered web apps  
-📍 Gazipur, Dhaka · ✉️ purificalex90@gmail.com
+📍 Gazipur, Dhaka · ✉️ purificationalex90@gmail.com
 
 ---
 
@@ -28,5 +28,5 @@ Full-Stack Web Developer · Django, React · Building user-centered web apps
 ---
 
 ## 📫 Contact
-- Email: purificalex90@gmail.com
+- Email: purificationalex90@gmail.com
 - LinkedIn: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpublic-profile%2Fsettings
