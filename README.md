@@ -69,6 +69,8 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/OrpanAp
+- LinkedIn: https://www.linkedin.com/in/alex-purification
+- Email: orpan.purification@gmail.com |  purificationalex90@gmail.com
 
 ---
 
