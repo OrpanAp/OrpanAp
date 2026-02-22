@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Django Backend Specialist | React Frontend Builder</h3>
+<h3 align="center">Full Stack Web Developer | Django Backend Specialist | React Frontend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OrpanAp&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -7,78 +7,77 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-I’m a Full Stack Web Developer focused on building **scalable, secure, and high-performance web applications**.
+Full Stack Web Developer focused on building **secure, scalable, and production-ready web applications**.
 
-I specialize in backend development with **Django** and building dynamic user interfaces with **React**.
+I specialize in backend development with **Django**, API architecture, and modern frontend interfaces using **React**.
 
-💡 I enjoy:
-- Designing clean backend architecture  
-- Building RESTful APIs  
-- Optimizing database queries  
-- Creating responsive, user-focused interfaces  
+🔹 Backend-first mindset  
+🔹 RESTful API design  
+🔹 Database optimization  
+🔹 Clean and maintainable code  
+🔹 Performance-focused development  
 
 📍 Based in Gazipur, Dhaka  
-🎯 Currently improving system design & backend scalability skills  
+📩 Open to job opportunities & freelance projects  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
-### 💻 Backend
+### Backend
 - Python
 - Django
-- REST APIs
+- REST API Development
 - PHP
 
-### 🎨 Frontend
+### Database
+- MySQL
+- MariaDB
+- SQLite
+
+### Frontend
 - React.js
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 
-### 🗄 Database
-- MySQL
-- SQLite
-
-### 🔧 Tools & Workflow
+### Tools
 - Git & GitHub
-- VS Code
 - Postman
-- API Testing & Debugging
+- VS Code
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Key Projects
 
 ### 🧠 Blog Management System (Django)
-✔ Role-based authentication system  
+✔ Role-based authentication & authorization  
 ✔ Secure route protection  
 ✔ Admin dashboard customization  
-✔ Structured backend logic  
+✔ Structured relational database design  
 
-**Focus:** Security + Backend architecture
+**Demonstrates:** Backend security & scalable architecture  
 
 ---
 
 ### 🎬 Movie Application (React + API)
 ✔ External API integration  
-✔ Dynamic filtering & search  
-✔ Responsive UI  
+✔ Real-time search & filtering  
 ✔ Component-based architecture  
+✔ Responsive UI design  
 
-**Focus:** API consumption + Frontend performance
+**Demonstrates:** API integration & frontend engineering  
 
 ---
 
-### 🚀 POWER Engine (Custom Template Framework)
-✔ Lightweight frontend templating system  
-✔ Vanilla JavaScript architecture  
-✔ Designed for blogs & documentation  
+### 🚀 POWER Engine (Custom JS Framework)
+✔ Lightweight templating engine  
+✔ Modular JavaScript structure  
 ✔ GitHub Pages deployment  
 
-**Focus:** Custom tooling + JavaScript fundamentals
+**Demonstrates:** JavaScript fundamentals & system thinking  
 
 ---
 
@@ -94,21 +93,21 @@ I specialize in backend development with **Django** and building dynamic user in
 
 ---
 
-## 🎯 What I Bring
+## 🎯 What I Offer
 
-✔ Clean & maintainable code  
-✔ Backend-first thinking  
-✔ Full-stack integration skills  
-✔ Problem-solving mindset  
-✔ Continuous learner  
+✔ Full-stack web application development  
+✔ Backend API development with Django  
+✔ Database design & optimization  
+✔ Frontend development with React  
+✔ Long-term project collaboration  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
-- 🔗 GitHub: https://github.com/OrpanAp  
-- 💼 LinkedIn: https://www.linkedin.com/in/alex-purification  
-- 📧 Email: orpan.purification@gmail.com | purificationalex90@gmail.com
+- GitHub: https://github.com/OrpanAp  
+- LinkedIn: https://www.linkedin.com/in/alex-purification  
+- Email: orpan.purification@gmail.com  
 
 ---
 
