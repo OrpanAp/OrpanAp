@@ -19,7 +19,7 @@
 - Python
 - Django
 - REST APIs
-- MySQL
+- PHP
 
 ### 🎨 Frontend
 - React.js
@@ -39,7 +39,6 @@
 ### 🧠 Blog Management System (Django)
 - Role-based authentication
 - Secure user access control
-- MySQL database integration
 - Admin dashboard customization
 
 ### 🎬 Movie Application (React)
