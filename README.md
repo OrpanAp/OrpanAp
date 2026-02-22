@@ -8,11 +8,11 @@ Full-Stack Web Developer · Django, React · Building user-centered web apps
 ## 🚀 Featured Projects
 ### Blog Management System — role-based DB system
 - Tech: Django, MySQL, HTML/CSS, JavaScript
-- Highlights: auth & secure routing, role-based permissions, deployed demo (link)
+- Highlights: auth & secure routing, role-based permissions, deployed demo (link: https://devalex.pythonanywhere.com/)
 
 ### Movie Application — API-based movie site
 - Tech: React, JS, API integration
-- Highlights: real-time API integration, filtering, responsive UI, live demo (link)
+- Highlights: real-time API integration, filtering, responsive UI, live demo (link-N/A)
 
 ### POWER Framework
 - Tech: Vanilla JS, HTML/CSS
@@ -29,4 +29,4 @@ Full-Stack Web Developer · Django, React · Building user-centered web apps
 
 ## 📫 Contact
 - Email: purificalex90@gmail.com
-- LinkedIn: (link) · Portfolio: (link)
+- LinkedIn: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpublic-profile%2Fsettings
