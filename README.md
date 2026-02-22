@@ -16,7 +16,7 @@ Full-Stack Web Developer · Django, React · Building user-centered web apps
 
 ### POWER Framework
 - Tech: Vanilla JS, HTML/CSS
-- Highlights: custom frontend framework for page management (link)
+- Highlights: custom frontend framework for page management (link: https://orpanap.github.io/Custom-web-templating-framework--Power-Engine--simplified/)
 
 ---
 
