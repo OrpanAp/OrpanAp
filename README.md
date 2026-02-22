@@ -7,7 +7,7 @@ Full-Stack Web Developer · Django, React · Building user-centered web apps
 
 ## 🚀 Featured Projects
 ### Blog Management System — role-based DB system
-- Tech: Django, MySQL, HTML/CSS, JavaScript
+- Tech: Django, MySQL, HTML/CSS
 - Highlights: auth & secure routing, role-based permissions, deployed demo (link: https://devalex.pythonanywhere.com/)
 
 ### Movie Application — API-based movie site
@@ -22,8 +22,8 @@ Full-Stack Web Developer · Django, React · Building user-centered web apps
 
 ## 🛠️ Tech Stack
 **Languages:** Python, JavaScript, HTML, CSS, C, C++  
-**Frameworks:** Django, React, Unity (if you use it)  
-**Tools:** Git, Docker (if used), VS Code, GitHub Actions
+**Frameworks:** Django, React, Unity 
+**Tools:** Git, GitHub Actions
 
 ---
 
