@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Orpan</h1>
+<h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Full Stack Web Developer | Django & React Enthusiast</h3>
 
 ---
@@ -57,11 +57,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrpanAp&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OrpanAp&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrpanAp&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrpanAp&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
