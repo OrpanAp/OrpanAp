@@ -1,32 +1,75 @@
-# Hi, I'm Alex 👋
-
-Full-Stack Web Developer · Django, React · Building user-centered web apps  
-📍 Gazipur, Dhaka · ✉️ purificationalex90@gmail.com
+<h1 align="center">Hi 👋, I'm Orpan</h1>
+<h3 align="center">Full Stack Web Developer | Django & React Enthusiast</h3>
 
 ---
 
-## 🚀 Featured Projects
-### Blog Management System — role-based DB system
-- Tech: Django, MySQL, HTML/CSS
-- Highlights: auth & secure routing, role-based permissions, deployed demo (link: https://devalex.pythonanywhere.com/)
+## 🚀 About Me
 
-### Movie Application — API-based movie site
-- Tech: React, JS, API integration
-- Highlights: real-time API integration, filtering, responsive UI, live demo (link-N/A)
-
-### POWER Framework
-- Tech: Vanilla JS, HTML/CSS
-- Highlights: custom frontend framework for page management (link: https://orpanap.github.io/Custom-web-templating-framework--Power-Engine--simplified/)
+- 💻 Passionate about building scalable web applications
+- 🔭 Currently working on Django & React projects
+- 🌱 Continuously learning advanced backend architecture
+- ⚡ Love solving real-world problems through code
+- 📍 Based in Gazipur, Dhaka
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python, JavaScript, HTML, CSS, C, C++  
-**Frameworks:** Django, React, Unity 
-**Tools:** Git, GitHub Actions
+## 🛠 Tech Stack
+
+### 💻 Backend
+- Python
+- Django
+- REST APIs
+- MySQL
+
+### 🎨 Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+### 🔧 Tools
+- Git & GitHub
+- VS Code
+- Postman
 
 ---
 
-## 📫 Contact
-- Email: purificationalex90@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alex-purification
+## 🌟 Featured Projects
+
+### 🧠 Blog Management System (Django)
+- Role-based authentication
+- Secure user access control
+- MySQL database integration
+- Admin dashboard customization
+
+### 🎬 Movie Application (React)
+- API integration
+- Dynamic filtering
+- Responsive UI design
+
+### 🚀 POWER Engine (Custom Template Framework)
+- Vanilla JavaScript templating system
+- Lightweight blog/documentation structure
+- GitHub Pages deployment
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OrpanAp&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrpanAp&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/OrpanAp
+
+---
+
+⭐ From [OrpanAp](https://github.com/OrpanAp)
