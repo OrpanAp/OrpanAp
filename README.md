@@ -107,7 +107,7 @@ I specialize in backend development with **Django**, API architecture, and moder
 
 - GitHub: https://github.com/OrpanAp  
 - LinkedIn: https://www.linkedin.com/in/alex-purification  
-- Email: orpan.purification@gmail.com  
+- Email: orpan.purification@gmail.com | purificationalex90@gmail.com 
 
 ---
 
