@@ -40,6 +40,7 @@ I specialize in backend development with **Django** and building dynamic user in
 
 ### 🗄 Database
 - MySQL
+- SQLite
 
 ### 🔧 Tools & Workflow
 - Git & GitHub
