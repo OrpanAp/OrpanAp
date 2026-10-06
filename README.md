@@ -410,7 +410,7 @@ I'm always interested in connecting with developers, teams, and organizations wo
 
 **[purificationalex90@gmail.com](mailto:purificationalex90@gmail.com)**
 
-### 📧 Wesite
+### 🌐 Wesite
 
 **[https://alex-purification.page.gd/](https://alex-purification.page.gd/)**
 
