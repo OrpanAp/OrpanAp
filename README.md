@@ -412,7 +412,7 @@ I'm always interested in connecting with developers, teams, and organizations wo
 
 ### 💼 LinkedIn
 
-**Alex Purification**
+**[Alex Purification](https://www.linkedin.com/in/alex-purification)**
 
 ### 💻 GitHub
 
