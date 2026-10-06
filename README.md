@@ -398,7 +398,7 @@ I’m interested in opportunities involving:
 
 I use GitHub to document projects, experiment with technologies, and continuously build my development portfolio.
 
-**GitHub:** OrpanAp
+**GitHub:** [OrpanAp](https://github.com/OrpanAp)
 
 ---
 
