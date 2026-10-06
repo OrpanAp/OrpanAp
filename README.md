@@ -416,7 +416,7 @@ I'm always interested in connecting with developers, teams, and organizations wo
 
 ### 💻 GitHub
 
-**OrpanAp**
+**[OrpanAp](https://github.com/OrpanAp)**
 
 ---
 
