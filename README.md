@@ -5,7 +5,7 @@
 ### Full-Stack Developer · API Builder · Software Engineering Enthusiast
 
 <p>
-  <a href="https://alex-purification.page.gd/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://alex-purification.page.gd/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/OrpanAp?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
   <a href="https://www.linkedin.com/in/alex-purification/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
