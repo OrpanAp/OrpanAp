@@ -1,463 +1,340 @@
-# 👋 Hi, I'm Alex Purification
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A2B,35:0B5D54,70:14B8A6,100:8BE9D0&text=Alex%20Purification&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Useful%20Web%20Systems&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Alex Purification — Full-Stack Developer banner" />
 
-### Full Stack Developer
+<a href="https://alex-purification.page.gd/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
+<a href="https://github.com/OrpanAp"><img src="https://img.shields.io/badge/GitHub-OrpanAp-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/alex-purification/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 
-**PHP • Laravel • Python • Django • JavaScript • React • MySQL**
+<br/>
 
-I’m a Computer Science & Engineering graduate and Full Stack Developer focused on building **database-driven web applications, management systems, API-integrated applications, and custom web tooling**.
+**I design and build database-driven applications, REST APIs, responsive
+interfaces, and custom web tooling.**
 
-I enjoy understanding how systems work from the ground up — from database design and backend logic to routing, authentication, APIs, frontend interfaces, and browser-side rendering.
+*Computer Science & Engineering graduate · Bangladesh · Open to junior /
+entry-level software development opportunities*
+</div>
+------------------------------------------------------------------------
 
-> **BUILD • LEARN • GROW**
+## `01` / About
 
----
+I'm Alex, a developer who enjoys understanding how web applications work
+from the inside out --- from data modeling and backend logic to API
+design, frontend behavior, authentication, and deployment.
 
-## 👨‍💻 About Me
+My work spans full-stack applications, management systems, API-driven
+React experiences, and experiments in building web tooling from the
+ground up. I value readable code, practical problem-solving, and
+learning by shipping real projects.
 
-* 🎓 Bachelor of Science in Computer Science & Engineering
-* 💻 Full Stack Developer
-* 🌐 Experienced with PHP, Laravel, Python, Django, JavaScript, and React
-* 🗄️ Experienced with MySQL, SQLite, SQL, and database design
-* 🔐 Interested in authentication, authorization, secure routing, and application architecture
-* ⚛️ Building modern frontend applications with React and JavaScript
-* 🧩 Interested in building systems from the ground up
-* 🛠️ Exploring custom web runtimes, templating systems, and native DOM development
-* 🌱 Continuously learning and improving my software engineering skills
+-   **Current focus:** Full-stack development with JavaScript /
+    TypeScript and AI-enabled web applications
+-   **Core experience:** JavaScript, React, Node.js, PHP, Python,
+    Django, SQL databases, REST APIs
+-   **Engineering interests:** Application architecture, secure
+    authentication, database design, framework internals, and
+    performance
+-   **Personal site:**
+    [alex-purification.page.gd](https://alex-purification.page.gd/)
+-   **Contact:**
+    [LinkedIn](https://www.linkedin.com/in/alex-purification/) ·
+    [GitHub](https://github.com/OrpanAp)
 
----
+## `02` / Tech toolkit
 
-# 🛠️ Technical Skills
+<div align="center">
+  -----------------------------------------------------------------------
+  Frontend          Backend & APIs    Data              Tools
+  ----------------- ----------------- ----------------- -----------------
+  JavaScript (ES6+) Node.js           MySQL / MariaDB   Git & GitHub
 
-## 💻 Programming Languages
+  React             Express.js        SQLite            npm
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C%23">
+  HTML5 / CSS3      PHP / Laravel     MongoDB /         VS Code
+                                      Mongoose          
+                                      fundamentals      
+
+  Tailwind CSS /    Python / Django / SQL & relational  REST API testing
+  Bootstrap         DRF               modeling          
+  -----------------------------------------------------------------------
+</div>
+`
+<p align="center">
+```
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,php,laravel,python,django,mysql,mongodb,sqlite,html,css,tailwind,bootstrap,git,github,vscode&perline=9" alt="Technologies and tools" />
+`
 </p>
-
-## 🌐 Backend & Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</p>
-
-* MVC concepts
-* CRUD application development
-* Authentication & authorization
-* Secure routing
-* Database-backed applications
-* REST/API integration
-* Server-side rendering
-* Modular application architecture
-
-## ⚛️ Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-</p>
-
-* Responsive web development
-* DOM manipulation
-* Component-based UI development
-* Client-side routing
-* Dynamic rendering
-* API consumption
-
-## 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-</p>
-
-* SQL
-* MySQL
-* SQLite
-* Database design
-* Data modeling
-* Relationships
-* CRUD operations
-* Database management
-
-## 🔧 Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-</p>
-
-* Git & GitHub
-* Python virtual environments
-* pip
-* Django management tools
-* PythonAnywhere
-* XAMPP
-* VS Code
-
----
-
-# 🚀 Featured Projects
-
-## 📦 Inventory Management System
-
-**Django • Python • HTML5 • CSS3 • JavaScript**
-
-A database-driven inventory management application designed to manage products, stock, sales, and administrative operations.
-
-### Highlights
-
-* Product creation, editing, and deletion
-* Stock management
-* Inventory management
-* Sales reporting
-* Administrative authentication
-* Access control
-* Modular Django application structure
-* Database-backed management workflows
-
-🔗 **Repository:** Inventory Management System
-
----
-
-## ⚡ POWER Engine — Custom Client-Side Runtime
-
-**JavaScript • HTML5 • CSS3**
-
-A lightweight custom client-side web runtime created from scratch without an external frontend runtime framework.
-
-The project explores how fundamental SPA features can be implemented using native browser APIs.
-
-### Highlights
-
-* Declarative client-side routing
-* SPA navigation
-* HTML template extraction
-* Dynamic template rendering
-* Props interpolation
-* Attribute interpolation
-* HTML/CSS includes
-* Page-scoped JavaScript execution
-* Browser History API
-* Native DOM manipulation
-* `DocumentFragment` based rendering
-* No external runtime dependencies
-
-This project demonstrates my interest in understanding **how frontend systems work internally**, rather than only using existing frameworks.
-
-🔗 **Repository:** POWER Engine
-
----
-
-## 📝 Blog Management System
-
-**Django • Python • HTML5 • CSS3 • Bootstrap • SQLite**
-
-A database-driven blogging platform with authentication, content management, media uploads, search, and an administrative dashboard.
-
-### Highlights
-
-* Blog post creation, editing, and deletion
-* Category management
-* Image/media upload
-* Comment functionality
-* Authentication
-* Administrative dashboard
-* Search functionality
-* Database-backed content management
-* Role-based management features
-* Django ORM and relational models
-* Deployed using PythonAnywhere
-
-🔗 **Repository:** Blog Management System
-
----
-
-## 🤝 Customer Relationship Management System
-
-**Django • Python • HTML5 • CSS3 • JavaScript**
-
-A web-based CRM application for organizing and managing customer-related information.
-
-### Highlights
-
-* Customer management
-* Agents management
-* Leads management
-* Database-backed CRUD operations
-* Reusable templates
-* Static resource organization
-* Django-based application structure
-* Git/GitHub based development workflow
-
-🔗 **Repository:** Customer Relationship Management System
-
----
-
-# 🎬 Additional Projects
-
-## Movie Website
-
-**React • JavaScript • TMDB API**
-
-A responsive movie discovery application using React and an external movie API.
-
-### Highlights
-
-* Movie browsing
-* External API integration
-* Movie search
-* Debounced search
-* Pagination
-* Responsive movie grid
-* Loading states
-* Component-based architecture
-
-🔗 **Repository:** Movie Website
-
----
-
-## 🎓 Student Management System
-
-**Django • Python • HTML5 • CSS3**
-
-A database-driven student management platform designed around multiple administrative and academic workflows.
-
-### Highlights
-
-* User and role management
-* Student management
-* Class assignment
-* Roll generation
-* Subject management
-* Student results
-* Attendance management
-* Financial records
-* Group permissions
-* Search and filtering
-* Django authentication and authorization
-* Relational database modeling
-
-🔗 **Repository:** Student Management System
-
----
-
-## 📊 Project Thesis Management System
-
-**MySQL • Database Design • System Analysis**
-
-A thesis tracking and management system developed collaboratively as part of a four-member Computer Science project.
-
-The project focused on:
-
-* Database design
-* System analysis
-* Data relationships
-* Thesis tracking
-* Management workflows
-
----
-
-# 🧠 What I Like Building
-
-I’m particularly interested in applications involving:
-
-```text
-┌───────────────────────────────────────────┐
-│              WEB APPLICATIONS              │
-├───────────────────────────────────────────┤
-│                                           │
-│  🔐 Authentication & Authorization        │
-│  🗄️ Database-Driven Systems               │
-│  📊 Management Applications               │
-│  🔄 CRUD Workflows                        │
-│  🌐 API-Integrated Applications           │
-│  ⚛️ React Interfaces                      │
-│  🐍 Django Applications                   │
-│  🐘 PHP / Laravel Applications            │
-│  🧩 Custom Web Tooling                   │
-│  ⚡ Client-Side Runtime Development       │
-│                                           │
-└───────────────────────────────────────────┘
+```
+## `03` / Selected work
+
+`
+<table>
+```
+`
+<tr>
+```
+`
+<td width="50%" valign="top">
+```
+### ⚡ P.O.W.E.R. 2.0
+
+**A custom Node.js web framework**
+
+A zero-runtime-dependency framework project exploring routing, MVC-style
+structure, server-rendered views, sessions, security controls, database
+tooling, and CLI workflows using Node.js built-ins.
+
+**Stack:** Node.js · JavaScript · Server-side rendering
+
+[Repository ↗](https://github.com/OrpanAp/power-2.0) · [Related live
+documentation
+↗](https://orpanap.github.io/Custom-web-templating-framework--Power-Engine--simplified/)
+
+`
+</td>
+```
+`
+<td width="50%" valign="top">
+```
+### 🩺 Doctor Tracker
+
+**Full-stack administration dashboard**
+
+A responsive doctor and patient management system with authenticated
+administration, searchable directories, pagination, doctor--patient
+assignments, and dashboard metrics.
+
+**Stack:** Next.js · React · Tailwind CSS · Express · MongoDB
+
+[Live app ↗](https://doctor-tracker-sage.vercel.app/) · [API health
+↗](https://doctor-tracker-2scb.onrender.com/api/health) · [Source
+↗](https://github.com/OrpanAp/doctor-tracker)
+
+`
+</td>
+```
+`
+</tr>
+```
+`
+<tr>
+```
+`
+<td width="50%" valign="top">
+```
+### 🧩 P.O.W.E.R. Engine
+
+**Native browser runtime / templating experiment**
+
+A lightweight client-side runtime built with browser APIs, featuring
+route-driven navigation, HTML fragment templates, interpolation,
+reusable includes, and History API integration.
+
+**Stack:** JavaScript · HTML · CSS · Native browser APIs
+
+[Live demo
+↗](https://orpanap.github.io/Custom-web-templating-framework--Power-Engine--simplified/)
+· [Repository
+↗](https://github.com/OrpanAp/Custom-web-templating-framework--Power-Engine--simplified/)
+
+`
+</td>
+```
+`
+<td width="50%" valign="top">
+```
+### 🗂️ Personal Portfolio
+
+**PHP portfolio with an admin panel**
+
+A dynamic portfolio site with project and technology management, profile
+and site settings, CV handling, and an MVC-style PHP application
+structure.
+
+**Stack:** PHP 8.2 · MySQL / MariaDB · JavaScript
+
+[Live website ↗](https://alex-purification.page.gd/) · [Repository
+↗](https://github.com/OrpanAp/portfolio)
+
+`
+</td>
+```
+`
+</tr>
+```
+`
+<tr>
+```
+`
+<td width="50%" valign="top">
+```
+### 🎬 CineStream
+
+**React movie discovery application**
+
+A responsive movie browser with API-powered discovery, debounced search,
+pagination, ratings, loading states, and reusable React components.
+
+**Stack:** React · Vite · Tailwind CSS · TMDB API
+
+[Repository ↗](https://github.com/OrpanAp/movie_website)
+
+`
+</td>
+```
+`
+<td width="50%" valign="top">
+```
+### 🔐 Secure Notes API
+
+**Backend-first secure notes service**
+
+A REST API with registration and login, password hashing, JWT
+authentication, role-based access control, private note CRUD,
+pagination, MongoDB indexes, aggregation pipelines, and automated tests.
+
+**Stack:** Node.js · Express 5 · MongoDB · Mongoose · Jest · Supertest
+
+[Repository ↗](https://github.com/OrpanAp/secure-notes-app)
+
+`
+</td>
+```
+`
+</tr>
+```
+`
+<tr>
+```
+`
+<td width="50%" valign="top">
+```
+### 📝 Django Blog
+
+**Database-backed content management**
+
+Blogging workflow with authentication, post and category management,
+comments, media uploads, search, and an administrative dashboard.
+
+**Stack:** Python · Django · SQLite · Bootstrap
+
+[Live app ↗](https://devalex.pythonanywhere.com/) · [Repository
+↗](https://github.com/OrpanAp/Blog_django)
+
+`
+</td>
+```
+`
+<td width="50%" valign="top">
+```
+### 🔌 Django REST Framework API
+
+**REST API learning and implementation**
+
+Examples covering serializers, function-based views, generic views,
+mixins, viewsets, routers, CRUD, pagination, filtering, search,
+ordering, and nested serializers.
+
+**Stack:** Python · Django REST Framework · SQLite
+
+[Repository ↗](https://github.com/OrpanAp/Django-Rest-Framework)
+
+`
+</td>
+```
+`
+</tr>
+```
+`
+</table>
+```
+## `04` / More projects
+
+  -------------------------------------------------------------------------------------------------------------------
+  Project                 What it explores        Links
+  ----------------------- ----------------------- -------------------------------------------------------------------
+  **Inventory Management  Django inventory CRUD,  [Source](https://github.com/OrpanAp/Inventory-Management-System)
+  System**                device types, stock     
+                          availability, and issue 
+                          tracking                
+
+  **Customer Relationship Django CRM workflows    [Source](https://github.com/OrpanAp/Customer-Relation-Management)
+  Management**            for organizations,      
+                          leads, agents, and      
+                          categories              
+
+  **Student Management    Academic workflows      [Source](https://github.com/OrpanAp/Student-Management-System)
+  System**                including students,     
+                          subjects, results,      
+                          attendance, and         
+                          permissions             
+
+  **Django + React        React frontend with     [Source](https://github.com/OrpanAp/DJango-REACT)
+  Notes**                 Django REST API, JWT    
+                          authentication, and     
+                          user-specific notes     
+
+  **PHP Signup & Login    Session-based           [Source](https://github.com/OrpanAp/signup-mvc)
+  MVC**                   authentication,         
+                          validation, password    
+                          hashing, PDO prepared   
+                          statements, and MVC     
+                          organization            
+
+  **Loan Approval         Django application      [Source](https://github.com/OrpanAp/Loan-Approval-Prediction)
+  Prediction**            integrating a           
+                          scikit-learn logistic   
+                          regression model        
+
+  **Motion Matching       Browser-based 3D        [Source](https://github.com/OrpanAp/Motion-Matching-Playground)
+  Playground**            animation experiment    
+                          with Three.js and       
+                          motion-matching         
+                          concepts                
+  -------------------------------------------------------------------------------------------------------------------
+
+> Live links are listed where a public deployment is documented in the
+> project materials. For other projects, use the source repository to
+> review the code and setup instructions.
+
+## `05` / How I approach engineering
+
+``` text
+Understand the problem
+        ↓
+Model the data and define boundaries
+        ↓
+Build small, testable features
+        ↓
+Connect APIs, UI, and persistence
+        ↓
+Validate edge cases and security
+        ↓
+Document, deploy, and iterate
 ```
 
----
+I like projects that make core software concepts tangible: routing,
+templating, authentication, authorization, database relationships, API
+contracts, and reusable UI architecture.
 
-# 🔬 Engineering Interests
+## `06` / Learning & direction
 
-Beyond building applications with existing frameworks, I enjoy exploring the fundamentals behind them.
+I'm continuing to deepen my full-stack JavaScript skills, especially
+backend engineering, API design, testing, database performance, and
+integrating AI capabilities into useful web products.
 
-Some areas I am particularly interested in:
+I aim to build software that is understandable, maintainable, and useful
+--- not just visually complete.
 
-* Web application architecture
-* MVC concepts
-* Routing systems
-* Template engines
-* Client-side rendering
-* DOM manipulation
-* API architecture
-* Database design
-* Authentication systems
-* Authorization systems
-* Component architecture
-* Software architecture
-* Framework internals
+## `07` / Find me
 
-The **POWER Engine** project is an example of this approach: instead of using an existing router or templating library, I experimented with implementing these concepts using native browser APIs.
+<div align="center">
+<a href="https://alex-purification.page.gd/"><img src="https://img.shields.io/badge/Personal%20Website-Explore%20my%20work-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
+<a href="https://github.com/OrpanAp?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-Browse%20projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
+<a href="https://www.linkedin.com/in/alex-purification/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
----
+<br/>
 
-# 📚 Currently Learning
+**Build thoughtfully. Learn continuously. Ship with purpose.**
 
-I continuously work on expanding my development skills across the full stack.
-
-### Backend
-
-* PHP
-* Laravel
-* Python
-* Django
-* Database architecture
-* API development
-
-### Frontend
-
-* JavaScript
-* React
-* Responsive UI development
-* DOM APIs
-* Client-side application architecture
-
-### Engineering
-
-* Software architecture
-* Secure application development
-* Database design
-* Clean and maintainable code
-* Framework internals
-
----
-
-# 💼 Professional Focus
-
-I’m interested in opportunities involving:
-
-* Full Stack Web Development
-* Backend Development
-* PHP / Laravel Development
-* Python / Django Development
-* React Development
-* Database-driven applications
-* API development
-* Web application maintenance and development
-
----
-
-# 🎓 Education
-
-### Asian University of Bangladesh
-
-**Bachelor of Science in Computer Science & Engineering**
-
-2018 – 2022
-
-### St. Joseph Higher Secondary School, Dhaka
-
-**Higher Secondary Certificate (HSC)**
-
-2013 – 2015
-
-### St. Nicholas High School
-
-**Secondary School Certificate (SSC)**
-
-2008 – 2013
-
----
-
-# 🌍 Languages
-
-* 🇧🇩 **Bangla** — Native
-* 🇬🇧 **English** — Professional Working Proficiency
-
----
-
-# 📊 GitHub
-
-I use GitHub to document projects, experiment with technologies, and continuously build my development portfolio.
-
-**GitHub:** [OrpanAp](https://github.com/OrpanAp)
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in connecting with developers, teams, and organizations working on interesting software projects.
-
-### 📧 Email
-
-**[purificationalex90@gmail.com](mailto:purificationalex90@gmail.com)**
-
-### 🌐 Wesite
-
-**[https://alex-purification.page.gd/](https://alex-purification.page.gd/)**
-
-
-### 💼 LinkedIn
-
-**[Alex Purification](https://www.linkedin.com/in/alex-purification)**
-
-### 💻 GitHub
-
-**[OrpanAp](https://github.com/OrpanAp)**
-
----
-
-# 🧩 Development Philosophy
-
-I believe the best way to become a better developer is to continuously build, understand, experiment, and improve.
-
-```text
-        BUILD
-          │
-          ▼
-        LEARN
-          │
-          ▼
-       UNDERSTAND
-          │
-          ▼
-       IMPROVE
-          │
-          ▼
-         GROW
-          │
-          └───────────────┐
-                          │
-                          ▼
-                        BUILD
-```
-
-> **FULL STACK DEVELOPER • BUILD • LEARN • GROW**
-
----
-
-<p align="center">
-  <strong>Thanks for visiting my profile!</strong>
-</p>
-
-<p align="center">
-  <i>Building applications. Learning systems. Growing as a developer.</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:071A2B,45:0B5D54,100:14B8A6" width="100%" alt="" />
+</div>
