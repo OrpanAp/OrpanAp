@@ -45,7 +45,7 @@ My projects include full-stack applications, management systems, Django applicat
       <strong>Custom Node.js web framework</strong>
       <p>A framework project exploring routing, MVC-style organization, server-rendered views, sessions, security controls, database tooling, and CLI workflows using Node.js built-ins.</p>
       <p><strong>Stack:</strong> Node.js · JavaScript</p>
-      <a href="https://github.com/OrpanAp/power-2.0">Source repository ↗</a> . <a href="https://orpanap.github.io/Custom-web-templating-framework--Power-Engine--simplified/">Live demo / docs ↗</a>
+      <a href="https://orpanap.github.io/Custom-web-templating-framework--Power-Engine--simplified/">Live demo / docs ↗</a> . <a href="https://github.com/OrpanAp/power-2.0">Repository ↗</a>
     </td>
     <td width="50%" valign="top">
       <h3>🩺 Doctor Tracker</h3>
