@@ -118,6 +118,7 @@ These projects best represent the kinds of applications and engineering problems
 
 | Project | What it explores |
 |---|---|
+| [Reasonable Assistant for Innovative Niche AI](https://github.com/OrpanAp/Reasonable-Assistant-for-Innovative-Niche-AI) | An AI-assistant project; visit the repository for its current scope and implementation details. |
 | [Django REST Framework](https://github.com/OrpanAp/Django-Rest-Framework) | Serializers, views, viewsets, routers, CRUD, pagination, filtering, and search |
 | [Django + React Notes](https://github.com/OrpanAp/DJango-REACT) | React frontend, Django REST API, JWT authentication, and user-specific notes |
 | [Inventory Management System](https://github.com/OrpanAp/Inventory-Management-System) | Inventory records, stock availability, and issue tracking |
